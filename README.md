@@ -3,3 +3,6 @@ https://docs.google.com/document/d/1Fe48CwcZeMrJpWwU9z8NPFa7uWPW8QAJk3DQSQa2j-w/
 
 #Конспекты
 https://docs.google.com/spreadsheets/d/1bDIXuA9GrDfL5vtsTAzjqbxHyYBziMow7E-tFWQA7zw/edit?usp=drive_link
+
+#Презентация
+https://docs.google.com/presentation/d/1jhaTH73MaJE_S2zpptV7h8GyTSjdSboyIbCTVJyyezk/edit?usp=drive_link
